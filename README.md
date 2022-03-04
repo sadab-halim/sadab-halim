@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Sadab Halim</h1>
-<h3 align="center">git commit -m "Hello, I'm a Frontend Developer and DevOps Enthusiast"</h3>
+<h3 align="center">git commit -m "Frontend Developer, DevOps Enthusiast, Open Source Contributor"</h3>
 
 - 👨‍💻 All about me is at [My Website](sadabhalim.com)
 
