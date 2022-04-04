@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Sadab</h1>
 <h3 align="center">git commit -m "Frontend Developer, DevOps Enthusiast, Open Source Contributor"</h3>
 
-![](https://ibb.co/N6Ghgbp) <br/>
+![](https://ibb.co/3BrzfRV)
 
 - 💬 Ask me about ``` var topics = [ "Java", "Python", "ReactJS", "NextJS", "DevOps"] ```
 
