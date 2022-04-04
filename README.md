@@ -3,14 +3,14 @@
 
 ![](https://i.ibb.co/2gnN8ZR/linkedin-header.png)
 
-- 💬 Ask me about ``` var topics = [ "Java", "Python", "ReactJS", "NextJS", "DevOps"] ```
+- 💬 Ask me about ``` var topics = [ "Java","Frontend", "DevOps", "Web3"] ```
 
-- 📫 How to reach me **sadabhalim7@gmail.com**
+- 📫 How to reach me ? **sadabhalim7@gmail.com**
 
 - 📄 Know about my work & experiences [My Resume]()    
 
 ### What can I help with:question::cyclone:
-<code>git commit -m "Frontend Development and DevOps"</code> :grin:
+<code>git commit -m "Frontend Development, DevOps and Web3"</code>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
