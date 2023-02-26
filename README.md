@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Sadab</h1>
 <!-- <h3 align="center">git commit -m "Frontend Developer, DevOps Enthusiast, Open Source Contributor"</h3> -->
 
-![](https://i.ibb.co/2gnN8ZR/linkedin-header.png)
+<a href="https://ibb.co/3NSpy0m"><img align="center" src="https://i.ibb.co/Ykfc7tB/Sadab-Halim.png" alt="Sadab-Halim" border="0" /></a>
 
 - 💬 Ask me about ``` var topics = [ "Java","Frontend", "DevOps", "Web3"] ```
 
-- 📫 How to reach me ? **sadabhalim7@gmail.com**
+- 📫 How to reach me ? **sadabhalim.sh@gmail.com**
 
 - 📄 Know about my work & experiences [My Resume]()    
 
