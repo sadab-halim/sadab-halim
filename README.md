@@ -1,11 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Sadab</h1>
-<!-- <h3 align="center">git commit -m "Frontend Developer, DevOps Enthusiast, Open Source Contributor"</h3> -->
+<img width="100%" src="Github%20Banner.png" alt="my banner">
 
-<a href="https://ibb.co/3NSpy0m"><img align="center" src="https://i.ibb.co/Ykfc7tB/Sadab-Halim.png" alt="Sadab-Halim" border="0" width="100%"/></a>
-
-- 💬 Ask me about ``` var topics = [ "Java","Frontend", "DevOps", "Web3"] ```
-
-- 📫 How to reach me ? **sadabhalim.sh@gmail.com**
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sadabhalim) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sadab_halim)
